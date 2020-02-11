@@ -12,4 +12,9 @@ After running xgboost and logit using just teams champion picks it became appare
 
 ## How then can I get some use out of this data?
 
-Lets try to build something useful. I can tell people which picks counter there opponent in lane.
+Lets try to build something useful. I can tell people which picks counter there opponent in lane. To do this i will use dash.
+To use dash i will learn dash. I plan to also add a link to guides for the top champion.
+
+# take away
+
+I need to learn more css as it is very flexible. There are not many good examples of dash apps so learning it is a challenge. The way it deals with output and input are novel to me and seem fairly flexible. 
